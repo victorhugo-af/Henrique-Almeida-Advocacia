@@ -1,0 +1,6 @@
+{
+  "name": "Henrique Almeida Advocacia",
+  "description": "Landing page premium para Henrique Almeida Advocacia, escritório especializado em Direito Previdenciário em São Carlos - SP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
